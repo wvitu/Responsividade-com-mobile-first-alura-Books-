@@ -53,11 +53,11 @@
     color: var(--azul);
     font-size: 1.125rem;
     font-weight: 700;
-    margin: .5em 0;
+    margin: 1em 0;
 }
 
 .descricao__texto {
-    font-size: 1.1428571rem;
+    font-size: 0.875rem;
 }
 
 .botoes_item {
